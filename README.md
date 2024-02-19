@@ -20,7 +20,7 @@ I'm actively seeking opportunities to leverage my skills in data analytics, data
 
 ## Let's Connect!
 
-If you're interested in collaborating, discussing projects, or just connecting with a fellow data enthusiast, I'd love to hear from you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/kessiananuru/) to start a conversation.
+If you're interested in collaborating, discussing projects, or just connecting with a fellow data enthusiast, I'd love to hear from you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kessiananuru/) to start a conversation.
 
 ## Conclusion
 
