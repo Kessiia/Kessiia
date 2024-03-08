@@ -8,6 +8,7 @@
 Here on my Github I've gathered a collection of projects that showcase my exploration into various aspects of data analytics, data science, and AI. Each project represents a step in my learning journey, from data wrangling to advanced modeling techniques.
 
 ## Project Highlights
+- [Data Analysis Practise Projects](https://github.com/Kessiia/data_analytics_projects.git): a collection of data analysis projects I did to refine my skills and to take the reader along to show how I work with data. I am updating this repository regularly with new projects.
 - [Data Analysis with Python](https://github.com/Kessiia/python-data-analysis.git): in this repository I demonstrate the skills I've learned through various Python for Data Analysis courses. I update this repository regularly with new things I've learned, so please be sure to check it out!
 
 ## Next Up
